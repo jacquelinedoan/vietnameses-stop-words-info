@@ -4,7 +4,7 @@ This is a project to generate Vietnamese stop words using the information-theore
 ## Method
 M. Gerlach, H. Shi, L.A.N. Amaral: "A universal information theoretic approach to the identification of stopwords" (2019)
 
-## Adapted Code
+## Original Code
 https://github.com/amarallab/stopwords
 
 ## Vietnamese News Corpus 
